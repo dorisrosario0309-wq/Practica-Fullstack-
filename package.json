@@ -1,0 +1,32 @@
+{
+  "name": "doris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorisrosario0309-wq/Practica-Fullstack-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dorisrosario0309-wq/Practica-Fullstack-/issues"
+  },
+  "homepage": "https://github.com/dorisrosario0309-wq/Practica-Fullstack-#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-handlebars": "^9.0.1",
+    "handlebars": "^4.7.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
